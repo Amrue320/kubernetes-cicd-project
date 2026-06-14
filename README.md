@@ -242,6 +242,3 @@ The same workflow can be extended to production environments using:
 
 **Amruthesh S P**
 
-DevOps Engineer | Cloud Enthusiast | Kubernetes Practitioner
-
-GitHub: https://github.com/Amrue320
